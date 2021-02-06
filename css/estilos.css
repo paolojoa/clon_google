@@ -69,7 +69,7 @@ footer ul li a{
     font-size: 1.3rem;
 }
 nav .nav-right-section .menu-icon {
-    background-image: url(/imagenes/apps.png);
+    background-image: url('https://static.thenounproject.com/png/756729-200.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
